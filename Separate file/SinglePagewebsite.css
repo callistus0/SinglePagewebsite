@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+section {
+    padding: 50px;
+    min-height: 100vh;
+}
+#home { background-color: lightblue; }
+#about { background-color: lightgreen; }
+#contact { background-color: lightcoral; }
